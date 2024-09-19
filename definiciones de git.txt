@@ -1,0 +1,23 @@
+
+ Git Bash
+"pwd" [saber ubicación actual]
+"cd ..." [dirigirme a una carpeta] [también puede realizarse "cd "ubicaciónCarpeta"", "ubicación carpeta" también se pega con un Shift+Insert"]
+"ls" [listar elementos de una carpeta]
+"git init" [iniciar repositorio en Git]
+"git status" [estado actual de archivos del repositorio]
+"git add ..." [agregar archivo a Stage]
+"git commit -m "... "" [agregar archivo a Commit]
+Configuración global con git config --global user.email o user.name
+Editor de código Vim, dentro del Git Bash
+"git log" [historial de los Commit]
+"git checkout -- ..." [descartar cambios en el archivo]
+"git diff ..." [muestra cambios en el archivo]
+".gitignore" [ignorar archivos para el repositorio -no se suben-]
+"git commit -m ... " [agregar archivo a Commit, sin entrar al Bin]
+"git branch" [saber el nombre de rama actual
+"git branch ..." [cear rama]
+"git checkout ..." [cambiar de rama]
+"git add ." [agregar todos los archivos]
+Descarga/Clonación de repositorio
+Ingresar ubicación de la carpeta  de alojamiento de la clonación [también puede realizarse "cd "ubicaciónCarpeta"", "ubicación carpeta también se pega con un Shift+Insert"]
+	"git clone ..." [clonar repositorio en la carpeta]
